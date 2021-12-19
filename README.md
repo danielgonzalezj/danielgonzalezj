@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hello, I'm Daniel 👋
 
-<!--
-**danielgonzalezj/danielgonzalezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analytics enthusiast
 
+| End Date      | Course                      | University                  |  Location                     |
+| ------------- |-----------------------------| ----------------------------| ------------------------------|
+| 2020          | Business Administration     | University of Puerto Rico   |    Ponce, Puerto Rico         |
+| 2021          | International Business      | Hult University             |    Boston (MA), United States
+                                                                                 London (ENG), United Kingdom
+| 2021          | Business Analytics          |   Hult University           |    Boston (MA), United States |
+| Expected 2022 | Finance                     |    Hult University          |  Boston (MA), United States   |
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
