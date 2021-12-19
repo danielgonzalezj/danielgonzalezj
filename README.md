@@ -11,15 +11,3 @@ Business Analytics enthusiast
 
 - I’m currently learning about coding and making new experiences
 - I’m looking for help with tips to improve my work
-
-
-I'm always available at:
-
-
- [<img  src="Downloads\logo\linkedin.png"  width="48"  height="48"  style="background-color:white;">][linkedin]
-  &nbsp;
-  [<img  src="Downloads\logo\instagram.png" width="48" height="48"   style="background-color:white;">][instagram]
-  
-
-[instagram]:  https://www.instagram.com/danielavianpr/
-[linkedin]:   www.linkedin.com/in/daniel-gonzalez-jimenez-848b001ba
