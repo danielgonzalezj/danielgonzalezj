@@ -16,9 +16,9 @@ Business Analytics enthusiast
 I'm always available at:
 
 
- [<img  src="Downloads\images\linkedin.png"  width="48"  height="48"  style="background-color:white;">][linkedin]
+ [<img  src="Downloads\logo\linkedin.png"  width="48"  height="48"  style="background-color:white;">][linkedin]
   &nbsp;
-  [<img  src="Downloads\images\instagram.png" width="48" height="48"   style="background-color:white;">][instagram]
+  [<img  src="Downloads\logo\instagram.png" width="48" height="48"   style="background-color:white;">][instagram]
   
 
 [instagram]:  https://www.instagram.com/danielavianpr/
